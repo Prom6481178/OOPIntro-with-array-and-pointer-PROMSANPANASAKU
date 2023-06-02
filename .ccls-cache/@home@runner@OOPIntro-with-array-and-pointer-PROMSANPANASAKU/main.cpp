@@ -28,10 +28,6 @@ int main(int argc, char* argv[]) {
       (pt_std+i)->print_all();
     }
   delete [] pt_std;
-  //name =oat
-  //age =21
-  //score=55
-  //print all info
 
 
   }
